@@ -1,0 +1,23 @@
+.first{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:xx-large;
+}
+.first h1{
+    color: blueviolet;
+    background-color: black;
+}
+.first a{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    color: red;
+}
+.third h1{
+    color: crimson;
+    background-color:black;
+}
+.third p a{
+    text-decoration: none;
+}
